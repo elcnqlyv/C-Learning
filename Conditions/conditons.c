@@ -6,7 +6,7 @@ void guessNumber(int guess) {
     } else if (guess > 555) {
         printf("Your guess is too high.\n");
     } else {
-        printf("Congratulations! You guessed the correct number.\n");
+        printf("Correct. You guessed it!\n");
     }
 }
 
