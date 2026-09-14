@@ -43,7 +43,7 @@ int main()
     }
 
     buildingPlan *structPointer = &myHouse;
-    printf("Position x: %d\n", structPointer->position.x)
+    printf("Position x: %d\n", structPointer->position.x);
 
     return 0;
 
