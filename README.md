@@ -1,7 +1,3 @@
-
-For **C-Learning**:
-
-```markdown
 # C Learning
 
 This repository contains exercises and small programs I created while learning the C programming language.
